@@ -23,12 +23,6 @@ I'm a passionate developer with a keen interest in full-stack development, UI/UX
 - Improving my knowledge of Agile methodologies
 - Diving into advanced JavaScript concepts
 
-## 📈 GitHub Stats
-![Casey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caseyanetor&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyanetor&layout=compact&theme=radical)
-
 ## ✨ Fun Facts
 - 🌍 I'm a globe-trotter at heart and love learning about new cultures.
 - ⚽ I'm a keen soccer player and enjoy playing in local leagues.
@@ -36,7 +30,6 @@ I'm a passionate developer with a keen interest in full-stack development, UI/UX
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/caseyae/)
-- [Twitter](https://twitter.com/caseyae)
 - [Email](mailto:caseyanetor@gmail.com)
 
 ## 🤝 Let's Collaborate
