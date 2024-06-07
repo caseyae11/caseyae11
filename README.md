@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=caseyanetor&color=blue)
 
-I'm a passionate developer with a keen interest in full-stack development, UI/UX design, and innovative tech solutions. Currently, I'm pursuing a Postgraduate Certificate in Interactive Media Management at Sheridan College. I love creating impactful software that solves real-world problems and continuously improving my skills.
+I'm a passionate developer with a keen interest in full-stack development, UI/UX design, and innovative tech solutions. Currently, looking for tech internships before furthering my education with a Masters in Information Systems. I love creating impactful software that solves real-world problems and continuously improving my skills.
 
 ## 🌐 My Portfolio
 [Caseyanet.com](https://caseyanet.com)
