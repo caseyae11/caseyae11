@@ -1,38 +1,71 @@
 # 👋 Hi, I'm Casey Anetor
 
-I'm a passionate developer with a keen interest in full-stack development, UI/UX design, and innovative tech solutions. Currently, looking for tech internships before furthering my education with a Masters in Information Systems. I love creating impactful software that solves real-world problems and continuously improving my skills.
+I'm a **Software Developer and Data Analyst** passionate about building innovative, data-driven solutions. With expertise in **full-stack development, data analytics, and machine learning**, I bridge the gap between **software engineering and data science** to create impactful, efficient applications. 
 
-## 🌐 My Portfolio
-[Caseyanet.com](https://caseyanet.com)
-
-## 🚀 Skills
-- **Languages**: HTML/CSS, JavaScript, TypeScript, Python, PHP, SQL, Java
-- **Frameworks & Libraries**: React, Node.js, Django, Angular, ASP.NET
-- **Tools**: Visual Studio Code, Git & GitHub, Figma, Adobe Creative Suite
-- **Databases**: MySQL, MongoDB, MS SQL
-
-## 🔭 Currently Working On
-- A full-stack web application using the MERN stack
-- Enhancing my skills in UI/UX design with Figma
-- Learning more about cloud computing with AWS
-
-## 🌱 Learning & Development
-- Exploring machine learning and data science
-- Improving my knowledge of Agile methodologies
-- Diving into advanced JavaScript concepts
-
-## ✨ Fun Facts
-- 🌍 I'm a globe-trotter at heart and love learning about new cultures.
-- ⚽ I'm a keen soccer player and enjoy playing in local leagues.
-- 🍳 I love cooking and experimenting with new recipes in my spare time.
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/caseyae/)
-- [Email](mailto:caseyanetor@gmail.com)
-
-## 🤝 Let's Collaborate
-I'm always open to exciting projects and collaboration opportunities. Feel free to reach out if you'd like to work together or just have a chat about tech!
+Currently, I'm **seeking tech internships** while expanding my skills in **cloud computing, machine learning, and system architecture**. My goal is to continue developing solutions that solve real-world problems and enhance user experiences.
 
 ---
 
-⭐️ From [Casey Anetor](https://github.com/caseyanetor)
+## 🌐 Portfolio & Projects
+🚀 **[Caseyanet.com](https://caseyanet.com)** – Explore my work, projects, and experience.
+
+---
+
+## 🔧 Technical Skills
+
+### **💻 Software Development**
+- **Languages**: Python, JavaScript (ES6+), TypeScript, PHP, SQL, R, Java, C#
+- **Frameworks & Libraries**: React, Node.js, Django, Flask, ASP.NET, Angular
+- **Databases**: MySQL, PostgreSQL, MongoDB, MS SQL
+
+### **📊 Data & Machine Learning**
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, ggplot2, dplyr
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Data Visualization**: Tableau, Power BI, Looker
+- **Big Data**: Spark, Hadoop (Beginner)
+
+### **☁️ Cloud & DevOps** (Beginner)
+- **Cloud Platforms**: AWS (S3, EC2, Lambda), Azure, GCP (Beginner)
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD & Automation**: Docker, Kubernetes, Jenkins
+
+### **🎨 UI/UX & Design**
+- **Tools**: Figma, Adobe Creative Suite (Photoshop, Illustrator)
+- **Frontend Technologies**: Tailwind CSS, Bootstrap, Material UI
+
+---
+
+## 🔭 Currently Working On
+- Developing a **full-stack web application** using the **MERN** stack.
+- Enhancing my **data analytics and machine learning** skills with real-world datasets.
+- Learning **cloud infrastructure** (AWS, Azure) and exploring **serverless computing**.
+
+---
+
+## 🌱 Learning & Development
+- Advancing my **data science and machine learning** expertise.
+- Deep diving into **system design and cloud architecture**.
+- Exploring **real-time data processing** with **Apache Kafka**.
+
+---
+
+## ✨ Fun Facts
+- 🌍 I love **exploring new cultures** and hope to visit **at least 20 countries**.
+- ⚽ **Soccer enthusiast** – I play in local leagues and follow the Premier League.
+- 🍳 Passionate about **cooking** and experimenting with new recipes.
+
+---
+
+## 📫 Connect with Me
+📌 **[LinkedIn](https://www.linkedin.com/in/caseyae/)**  
+📧 **[Email](mailto:caseyanetor@gmail.com)**  
+🌐 **[Portfolio](https://caseyanet.com)**  
+
+---
+
+## 🤝 Let's Collaborate
+I'm always open to **exciting projects, tech discussions, and collaboration opportunities**. If you have an idea, want to work together, or just chat about **technology, development, or data science**, feel free to reach out!
+
+---
+
+⭐ **From [Casey Anetor](https://github.com/caseyanetor)**
