@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Casey Anetor
 
-I'm a **Software Developer and Data Analyst** passionate about building innovative, data-driven solutions. With expertise in **full-stack development, data analytics, and machine learning**, I bridge the gap between **software engineering and data science** to create impactful, efficient applications. 
+I'm a **Software Developer and Data Scientist** passionate about building innovative, data-driven solutions. With expertise in **full-stack development, data analytics, and machine learning**, I bridge the gap between **software engineering and data science** to create impactful, efficient applications. 
 
 Currently, I'm **seeking tech internships** while expanding my skills in **cloud computing, machine learning, and system architecture**. My goal is to continue developing solutions that solve real-world problems and enhance user experiences.
 
